@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/LLM_Langchain_KrishNaik/mlflowtrackingproject/mlruns/0/276d83fa75214c91ac694c9ce5436074/artifacts
+end_time: 1726998581975
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 276d83fa75214c91ac694c9ce5436074
+run_name: spiffy-bear-43
+run_uuid: 276d83fa75214c91ac694c9ce5436074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726998579959
+status: 3
+tags: []
+user_id: Sreehari

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/LLM_Langchain_KrishNaik/mlflowtrackingproject/mlruns/0/f429cfe45e91404bb1bf28e239689929/artifacts
+end_time: 1726976438865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f429cfe45e91404bb1bf28e239689929
+run_name: languid-hound-968
+run_uuid: f429cfe45e91404bb1bf28e239689929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726976437285
+status: 4
+tags: []
+user_id: Sreehari

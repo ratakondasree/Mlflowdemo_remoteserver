@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/LLM_Langchain_KrishNaik/mlflowtrackingproject/mlruns/0/5ff45dcb64fd4d878bc6b1d92131c134/artifacts
+end_time: 1726990439238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ff45dcb64fd4d878bc6b1d92131c134
+run_name: marvelous-shrike-974
+run_uuid: 5ff45dcb64fd4d878bc6b1d92131c134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726990437101
+status: 4
+tags: []
+user_id: Sreehari
